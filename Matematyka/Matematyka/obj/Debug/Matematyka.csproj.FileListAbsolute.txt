@@ -1,0 +1,15 @@
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\Matematyka.csprojAssemblyReference.cache
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\MainWindow.g.cs
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\App.g.cs
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\Matematyka_MarkupCompile.cache
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\Matematyka_MarkupCompile.lref
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\bin\Debug\Matematyka.exe.config
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\bin\Debug\Matematyka.exe
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\bin\Debug\Matematyka.pdb
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\MainWindow.baml
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\Matematyka.g.resources
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\Matematyka.Properties.Resources.resources
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\Matematyka.csproj.GenerateResource.cache
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\Matematyka.csproj.CoreCompileInputs.cache
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\Matematyka.exe
+F:\Aplikacje Desktopowe\Matematyka\Matematyka\obj\Debug\Matematyka.pdb
